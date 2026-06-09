@@ -1,3 +1,19 @@
+# A vehicle number plate is entered: 
+# MH12AB4589 
+# Tasks 
+# Write a program to: 
+# 1. Extract state code.  
+# 2. Extract district code.  
+# 3. Extract vehicle series.  
+# 4. Extract vehicle number.  
+# 5. Count letters and digits separately.  
+# 6. Verify:  
+# o First 2 characters must be alphabets.  
+# o Next 2 must be digits.  
+# o Next 2 must be alphabets.  
+# o Last 4 must be digits.  
+# 7. Display whether the number plate is valid.
+
 #Program to vehicle number plate verification
 plate = "MH12AB4589"
 
