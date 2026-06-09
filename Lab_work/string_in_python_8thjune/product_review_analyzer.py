@@ -1,3 +1,15 @@
+# A customer submits a review: 
+# This product is excellent excellent excellent and very useful 
+# Tasks 
+# Write a program to: 
+# 1. Count total words.  
+# 2. Create a dictionary containing word frequencies.  
+# 3. Find the most frequently used word.  
+# 4. Find all words appearing only once.  
+# 5. Count words having more than 5 characters.  
+# 6. Display words in reverse order.  
+# 7. Create a list of unique words.
+
 #Program for product review analyzer
 review="This product is excellent excellent excellent and very useful"
 
