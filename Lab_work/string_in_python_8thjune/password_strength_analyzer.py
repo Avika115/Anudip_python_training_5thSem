@@ -1,3 +1,24 @@
+# Password Strength Analyzer
+# Problem Statement
+# A user enters a password.
+# Python@2026!
+# Tasks
+# Write a program to determine whether the password is Strong, Medium, or Weak.
+# Rules:
+# • Minimum length 8 
+# • Contains at least: 
+# o 1 uppercase letter 
+# o 1 lowercase letter 
+# o 1 digit 
+# o 1 special character 
+# Additionally:
+# 1. Count uppercase letters. 
+# 2. Count lowercase letters. 
+# 3. Count digits. 
+# 4. Count special characters. 
+# 5. Display all digits separately. 
+# 6. Display all special characters separately.
+
 #Program for password strength analyzer
 password = "Python@2026!"
 
